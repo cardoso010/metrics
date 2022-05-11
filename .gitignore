@@ -24,3 +24,7 @@ metrics-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Data file
+/config/grafana/data
+/config/prometheus/data
