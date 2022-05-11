@@ -1,0 +1,17 @@
+{
+	"ulid": "01G2PZEMTKZMTKFJ5VEZNM575T",
+	"minTime": 1652128388667,
+	"maxTime": 1652133600000,
+	"stats": {
+		"numSamples": 132488,
+		"numSeries": 662,
+		"numChunks": 1132
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G2PZEMTKZMTKFJ5VEZNM575T"
+		]
+	},
+	"version": 1
+}
